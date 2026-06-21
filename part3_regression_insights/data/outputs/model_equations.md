@@ -73,4 +73,4 @@ R² = 0.8296, F-statistic = 150.39, n = 320
 
 ## Final Model Selected and Reason
 
-The **multiple regression model** was selected as the final model. It explains substantially more variation in monthly sales (R² = 0.8296) than any single-variable model (best simple model R² = 0.7363), and it reflects the reality that store performance is driven by a *combination* of marketing, staffing, inventory, and store characteristics rather than any single lever. Full reasoning and trade-offs are documented in `analysis/model_comparison.md`.
+The **multiple regression model** was selected as the final model. It explains substantially more variation in monthly sales (R² = 0.8296) than any single-variable model (best simple model R² = 0.7363), and it reflects the reality that store performance is driven by a *combination* of marketing, staffing, inventory, and store characteristics rather than any single lever. 
