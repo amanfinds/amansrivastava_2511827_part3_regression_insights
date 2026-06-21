@@ -74,8 +74,4 @@ Leadership should prioritize **footfall-driving investments, inventory availabil
 - Regression results show statistical **association**, not proof of causation. See `outputs/final_recommendation.md` for full discussion.
 - `is_Mall` and `is_North` coefficients in the final model were not statistically significant (p > 0.05) and should not be treated as confirmed effects.
 
-
-│   ├── residuals_preview.png
-│   └── model_comparison_preview.png
-└── README.md
 ```
