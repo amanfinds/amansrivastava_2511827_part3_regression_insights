@@ -1,4 +1,4 @@
-# Part 3 — Regression-Based Business Insights & Model Interpretation
+## Regression-Based Business Insights & Model Interpretation
 
 ## Business Problem Summary
 
@@ -74,32 +74,7 @@ Leadership should prioritize **footfall-driving investments, inventory availabil
 - Regression results show statistical **association**, not proof of causation. See `outputs/final_recommendation.md` for full discussion.
 - `is_Mall` and `is_North` coefficients in the final model were not statistically significant (p > 0.05) and should not be treated as confirmed effects.
 
-## Screenshots Included
 
-| File | Shows |
-|---|---|
-| `screenshots/simple_regression_output.png` | Simple regression output (footfall model) |
-| `screenshots/multiple_regression_output.png` | Multiple regression output (final model coefficients) |
-| `screenshots/residuals_preview.png` | Predicted values and residuals table |
-| `screenshots/model_comparison_preview.png` | Model comparison summary table |
-
-## Repository Structure
-
-```
-part3_regression_insights/
-├── data/
-│   └── business_regression_data.xlsx
-├── analysis/
-│   ├── regression_workbook.xlsx
-│   ├── model_comparison.md
-│   └── residual_analysis.md
-├── outputs/
-│   ├── regression_summary.xlsx
-│   ├── final_recommendation.md
-│   └── model_equations.md
-├── screenshots/
-│   ├── simple_regression_output.png
-│   ├── multiple_regression_output.png
 │   ├── residuals_preview.png
 │   └── model_comparison_preview.png
 └── README.md
